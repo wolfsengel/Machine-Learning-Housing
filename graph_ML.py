@@ -1,3 +1,6 @@
+#STOCK PRICE PREDICTION USING LINEAR REGRESSION
+
+#Importing the libraries
 import numpy as np
 import pandas as pd
 from sklearn import preprocessing
